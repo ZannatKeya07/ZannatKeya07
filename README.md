@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/zannat-keya-b02988228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/zannat-keya-b02988228" height="30" width="40" /></a>
+<a href=" linkedin.com/in/zannat-keya-b02988228 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/zannat-keya-b02988228" height="30" width="40" /></a>
 <a href="https://web.facebook.com/keya.ak21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zannat keya" height="30" width="40" /></a>
-<a href="https://instagram.com/zannat keya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zannat keya" height="30" width="40" /></a> 
-<p align="left">Email: zannatkeya12@gmail.com</p>
+<a href="https://www.instagram.com/zannatkeya07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zannat keya" height="30" width="40" /></a> 
+<p align="left">Email: zannatkeya07@gmail.com</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
